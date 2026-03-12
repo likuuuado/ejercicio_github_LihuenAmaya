@@ -4,4 +4,6 @@ NPC: serviria mucho como comida de emergencia
 
 NPC: ¿Queres ir a buscarlo? Y/N
 
-["Dialogo_NPC_SI"]
+
+["Dialogo_NPC_NO"] / ["Dialogo_NPC_SI"]
+
