@@ -1,0 +1,5 @@
+NPC: se fue en aquella direccion (apunta a algun lado)
+
+*te encuentras con un mapache*
+
+Mapache: no soy un mapache yo solia ser un reno
